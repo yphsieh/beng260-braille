@@ -1,4 +1,5 @@
 # beng260-braille
+Braille is a tactile writing system of raised dots designed for people who are visually impaired. The system uses raised and unraised dots in six positions to represent a letter. In this project, we proposed a neuronal network along with a data generation method to simulate the Braille reading.
 
 ## Usage
 Use the command ```python baseline.py <input sentence>``` to run the Braille simulation. <br/>
